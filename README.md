@@ -45,8 +45,4 @@ Guided by:
 Prof. Mr. Yaduvir Singh (CSE AI) - https://github.com/yaduyash, 
 Prof. Mr. Amit Bindal (CSE IoT)
 
-References:
--Python Official Docs
--Tkinter Library
--GeeksforGeeks - Python GUI
--Real Python Tutorials
+References: Python Official Docs, Tkinter Library, GeeksforGeeks, Python GUI, Real Python Tutorials
