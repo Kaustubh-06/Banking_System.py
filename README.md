@@ -33,3 +33,20 @@ Offers a step-by-step instructional user communication.
 - Python 3x
 - Tkinter (when it comes to GUI-based improvement)
 - IDE (VS Code, Jupiter Notebook, etc.)
+
+Contributors:
+Kaustubh
+Aakanksha Mishra
+Ishita Srivastava
+Anshu Sahani
+Goldi Kushwaha
+
+Guided by:
+Prof. Mr. Yaduvir Singh (CSE AI)
+Prof. Mr. Amit Bindal (CSE IoT)
+
+References:
+-Python Official Docs
+-Tkinter Library
+-GeeksforGeeks - Python GUI
+-Real Python Tutorials
