@@ -16,8 +16,7 @@ Features:-
 7. OTP Verification System
 
 
-
-**Technologies and Concepts Implied **
+Technologies and Concepts Implied
 1. Object-Oriented Programming
 Cuts code into reusable and organised classes.
 
