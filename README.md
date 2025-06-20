@@ -42,7 +42,7 @@ Anshu Sahani
 Goldi Kushwaha
 
 Guided by:
-Prof. Mr. Yaduvir Singh (CSE AI) - https://github.com/yaduyash
+Prof. Mr. Yaduvir Singh (CSE AI) - https://github.com/yaduyash, 
 Prof. Mr. Amit Bindal (CSE IoT)
 
 References:
